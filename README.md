@@ -6,3 +6,4 @@ Description:
 - Took the dataset from Glassdoor with male and female salaries in 2019.
 - Used three methods of hypothesis testing: t-test (theory-based), t-test (permutation), and null distribution (permutation) to draw conclusions and find scientific truths.
 - Evaluated each method according to this particular scenario, then obtained p-value to check statistical significance that answered the research question.
+- https://github.com/karlie-tr/STAT201-GroupProject/blob/31324c8e6aab4aba94c40ad9338bcdf6edd52ff3/Final%20Report.ipynb
